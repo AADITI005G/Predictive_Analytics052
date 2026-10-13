@@ -1,0 +1,10 @@
+{
+  "title": "Food Delivery Time Prediction 🛵",
+  "subtitle": "Optimize Food Delivery: Predict Times with Real-World Data!",
+  "description": "This dataset is designed for predicting food delivery times based on various influencing factors such as distance, weather, traffic conditions, and time of day. It offers a practical and engaging challenge for machine learning practitioners, especially those interested in logistics and operations research.\n\nKey Features:\n\n**Order_ID**: Unique identifier for each order.\n\n**Distance_km**: The delivery distance in kilometers.\n\n**Weather**: Weather conditions during the delivery, including Clear, Rainy, Snowy, Foggy, and Windy.\n\n**Traffic_Level**: Traffic conditions categorized as Low, Medium, or High.\n\n**Time_of_Day**: The time when the delivery took place, categorized as Morning, Afternoon, Evening, or Night.\n\n**Vehicle_Type**: Type of vehicle used for delivery, including Bike, Scooter, and Car.\n\n**Preparation_Time_min**: The time required to prepare the order, measured in minutes.\n\n**Courier_Experience_yrs**: Experience of the courier in years.\n\n**Delivery_Time_min**: The total delivery time in minutes (target variable).",
+  "licenseName": "Apache 2.0",
+  "ownerName": "Den_Kuznetz",
+  "currentVersionNumber": 1,
+  "source_url": "https://www.kaggle.com/datasets/denkuznetz/food-delivery-time-prediction",
+  "accessed": "2026-10-11"
+}

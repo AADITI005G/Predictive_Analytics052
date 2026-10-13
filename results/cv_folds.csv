@@ -1,0 +1,61 @@
+dataset,model,fold,MAE
+A,Median baseline,1,16.91875
+A,Median baseline,2,17.85625
+A,Median baseline,3,18.4125
+A,Median baseline,4,18.05625
+A,Median baseline,5,18.3375
+A,Ridge,1,8.996710565369606
+A,Ridge,2,8.873704967595907
+A,Ridge,3,10.053567438393246
+A,Ridge,4,9.193289947835174
+A,Ridge,5,9.760532030271154
+A,Random forest,1,10.14038024405983
+A,Random forest,2,9.209778064337803
+A,Random forest,3,10.957097521974607
+A,Random forest,4,10.128531860243944
+A,Random forest,5,10.05458518999222
+A,Gradient boosting,1,10.227417234830934
+A,Gradient boosting,2,9.777324677439772
+A,Gradient boosting,3,11.508321686400677
+A,Gradient boosting,4,10.324979089122795
+A,Gradient boosting,5,10.610622909287107
+B,Median baseline,1,7.544030773457893
+B,Median baseline,2,7.6510989010989015
+B,Median baseline,3,7.596153846153846
+B,Median baseline,4,7.52314878417365
+B,Median baseline,5,7.478225030910839
+B,Ridge,1,6.712482103610283
+B,Ridge,2,6.7957058313811975
+B,Ridge,3,6.814993210595963
+B,Ridge,4,6.7292698047378945
+B,Ridge,5,6.71484684153392
+B,Random forest,1,6.674934097500698
+B,Random forest,2,6.767530490170834
+B,Random forest,3,6.8091556244978575
+B,Random forest,4,6.690141797986947
+B,Random forest,5,6.748886761606909
+B,Gradient boosting,1,6.435200102136623
+B,Gradient boosting,2,6.518505112107774
+B,Gradient boosting,3,6.571940591382414
+B,Gradient boosting,4,6.481427911709299
+B,Gradient boosting,5,6.5015771987895015
+C,Median baseline,1,4.065625
+C,Median baseline,2,4.1625
+C,Median baseline,3,4.125
+C,Median baseline,4,4.175
+C,Median baseline,5,4.26875
+C,Ridge,1,3.4680732762609567
+C,Ridge,2,3.7117814565134517
+C,Ridge,3,3.6384449515052872
+C,Ridge,4,3.630499069722641
+C,Ridge,5,3.6314333135696657
+C,Random forest,1,3.514479523214457
+C,Random forest,2,3.7660459088963814
+C,Random forest,3,3.6083430740075313
+C,Random forest,4,3.642402187407318
+C,Random forest,5,3.6691939577816264
+C,Gradient boosting,1,3.4588366868743265
+C,Gradient boosting,2,3.7695990091470177
+C,Gradient boosting,3,3.5714313941377456
+C,Gradient boosting,4,3.613576488722282
+C,Gradient boosting,5,3.6597028322992116

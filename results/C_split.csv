@@ -1,0 +1,1899 @@
+source_row,order_id,partition,group_id
+0,1477147,test,Hangawi
+1,1477685,development,Blue Ribbon Sushi Izakaya
+2,1477070,test,Cafe Habana
+3,1477334,development,Blue Ribbon Fried Chicken
+4,1478249,development,Dirty Bird to Go
+5,1477224,development,Tamarind TriBeCa
+6,1477894,development,The Meatball Shop
+7,1477859,test,Barbounia
+8,1477174,development,Anjappar Chettinad
+9,1477311,development,Bukhara Grill
+10,1477895,development,Big Wong Restaurant _¤¾Ñ¼
+11,1478437,development,Empanada Mama (closed)
+12,1476966,development,Blue Ribbon Fried Chicken
+13,1477449,test,Pylos
+14,1478198,development,Lucky's Famous Burgers
+15,1477414,development,Shake Shack
+16,1477486,development,Sushi of Gari
+17,1477373,development,Blue Ribbon Sushi Izakaya
+18,1477138,development,RedFarm Hudson
+19,1477354,development,Blue Ribbon Sushi
+20,1478296,development,Five Guys Burgers and Fries
+21,1478226,development,Shake Shack
+22,1478287,development,Shake Shack
+23,1478014,development,Tortaria
+24,1476714,test,Cafe Mogador
+25,1476693,test,Cafe Mogador
+26,1476995,development,The Meatball Shop
+27,1476844,development,Otto Enoteca Pizzeria
+28,1477015,development,Vezzo Thin Crust Pizza
+29,1476889,development,Sushi of Gari 46
+30,1478289,test,The Kati Roll Company
+31,1477699,development,Klong
+32,1476855,development,5 Napkin Burger
+33,1477748,test,TAO
+34,1478244,test,Parm
+35,1478310,test,Sushi Samba
+36,1478017,development,Blue Ribbon Sushi
+37,1476871,development,The Meatball Shop
+38,1477999,development,Haru Gramercy Park
+39,1476891,development,Shake Shack
+40,1477425,development,Chipotle Mexican Grill $1.99 Delivery
+41,1478143,test,TAO
+42,1477267,development,RedFarm Broadway
+43,1477728,development,Cafeteria
+44,1476908,development,Five Guys Burgers and Fries
+45,1476581,development,The Meatball Shop
+46,1476930,development,DuMont Burger
+47,1477621,development,Sarabeth's East
+48,1478354,development,Blue Ribbon Fried Chicken
+49,1477251,development,Hill Country Fried Chicken
+50,1477656,test,Bistango
+51,1477883,development,Blue Ribbon Fried Chicken
+52,1477205,test,TAO
+53,1478107,development,RedFarm Broadway
+54,1477760,development,Jack's Wife Freda
+55,1476562,development,Mamoun's Falafel
+56,1477692,development,Sushi of Gari 46
+57,1477889,development,RedFarm Hudson
+58,1477243,test,Prosperity Dumpling
+59,1477560,development,Blue Ribbon Fried Chicken
+60,1476896,development,Blue Ribbon Fried Chicken
+61,1478327,development,Blue Ribbon Sushi Bar & Grill
+62,1476820,test,Cafe Habana
+63,1478121,development,Westville Hudson
+64,1478077,development,Shake Shack
+65,1478359,test,Blue Ribbon Brooklyn
+66,1476841,development,RedFarm Broadway
+67,1477125,development,Nobu Next Door
+68,1477915,development,Osteria Morini
+69,1477475,development,Blue Ribbon Fried Chicken
+70,1477932,development,Shake Shack
+71,1476651,development,Shake Shack
+72,1477730,test,Parm
+73,1477518,test,Sushi Samba
+74,1477821,development,Haandi
+75,1477104,development,The Meatball Shop
+76,1477921,development,Benihana
+77,1477938,test,The Kati Roll Company
+78,1476943,development,RedFarm Hudson
+79,1477581,test,Han Dynasty
+80,1477975,development,Shake Shack
+81,1477601,development,Cafeteria
+82,1477790,development,Shake Shack
+83,1477385,development,Chipotle Mexican Grill $1.99 Delivery
+84,1478423,development,The Meatball Shop
+85,1477051,development,Tortaria
+86,1476796,development,Nobu Next Door
+87,1478031,development,Otto Enoteca Pizzeria
+88,1477740,test,TAO
+89,1478384,development,Hill Country Fried Chicken
+90,1478183,development,Shake Shack
+91,1477569,development,Chote Nawab
+92,1478211,development,RedFarm Hudson
+93,1476635,development,Mission Cantina
+94,1477646,development,Xi'an Famous Foods
+95,1477027,development,Blue Ribbon Fried Chicken
+96,1476921,development,Blue Ribbon Fried Chicken
+97,1476689,development,Shake Shack
+98,1477767,development,Sarabeth's East
+99,1476582,test,Cafe Habana
+100,1478169,development,Rubirosa
+101,1477702,development,Blue Ribbon Fried Chicken
+102,1477240,development,Blue Ribbon Sushi
+103,1476564,development,Five Guys Burgers and Fries
+104,1478408,development,The Meatball Shop
+105,1477824,test,TAO
+106,1477617,development,Blue Ribbon Sushi
+107,1477978,development,Joe's Shanghai _Àü£¾÷´
+108,1477281,development,Otto Enoteca Pizzeria
+109,1478223,development,Blue Ribbon Sushi
+110,1477364,development,Shake Shack
+111,1476715,development,Bareburger
+112,1476654,development,The Odeon
+113,1477296,test,Parm
+114,1478321,development,Pongsri Thai
+115,1477942,development,Yama Japanese Restaurant
+116,1477552,development,Shake Shack
+117,1476770,development,Blue Ribbon Fried Chicken
+118,1476558,development,Yama Japanese Restaurant
+119,1477993,development,Momoya
+120,1478072,development,Osteria Morini
+121,1476935,development,Blue Ribbon Fried Chicken
+122,1477255,development,Five Guys Burgers and Fries
+123,1477012,development,The Meatball Shop
+124,1477704,development,Balthazar Boulangerie
+125,1477188,development,Sushi of Gari
+126,1478348,test,Parm
+127,1477405,development,The Meatball Shop
+128,1476826,development,CafÌ© China
+129,1478340,development,Shake Shack
+130,1477044,development,RedFarm Broadway
+131,1476978,development,RedFarm Hudson
+132,1477287,development,Otto Enoteca Pizzeria
+133,1477110,development,RedFarm Hudson
+134,1476555,development,Blue Ribbon Sushi Bar & Grill
+135,1476862,development,The Meatball Shop
+136,1477117,development,Nobu Next Door
+137,1478402,development,CafÌ© China
+138,1477431,test,Boqueria
+139,1477836,development,Bareburger
+140,1477376,development,Blue Ribbon Fried Chicken
+141,1476835,test,TAO
+142,1477177,development,Song Thai Restaurant & Bar
+143,1478174,development,Sushi of Gari
+144,1478269,development,The Meatball Shop
+145,1477369,development,Shake Shack
+146,1476969,development,Blue Ribbon Sushi
+147,1477420,development,Shake Shack
+148,1476663,test,Parm
+149,1477904,development,RedFarm Hudson
+150,1478219,development,Shake Shack
+151,1477206,development,Blue Ribbon Sushi Bar & Grill
+152,1477337,development,Five Guys Burgers and Fries
+153,1476809,development,Shake Shack
+154,1477750,development,Shake Shack
+155,1476817,development,Benihana
+156,1476659,development,RedFarm Broadway
+157,1477609,test,TAO
+158,1477616,development,Tamarind TriBeCa
+159,1476769,development,Sushi of Gari 46
+160,1477185,test,The Kati Roll Company
+161,1477752,development,Shake Shack
+162,1477239,development,The Meatball Shop
+163,1476590,test,The Kati Roll Company
+164,1478305,development,Rubirosa
+165,1476751,development,Blue Ribbon Sushi
+166,1477831,development,RedFarm Broadway
+167,1477955,development,Five Leaves
+168,1476568,development,Otto Enoteca Pizzeria
+169,1478391,development,Pinto Nouveau Thai Bistro
+170,1476725,test,Barbounia
+171,1476688,test,Cafe Mogador
+172,1477102,development,Five Guys Burgers and Fries
+173,1476878,development,RedFarm Broadway
+174,1476805,test,Parm
+175,1478093,test,Barbounia
+176,1478201,development,RedFarm Broadway
+177,1478032,development,Dirty Bird to Go
+178,1476606,development,The Meatball Shop
+179,1477570,development,Amy Ruth's
+180,1476808,test,Pepe Giallo
+181,1476610,test,TAO
+182,1476875,development,indikitch
+183,1476829,development,The Meatball Shop
+184,1477366,test,Han Dynasty
+185,1477774,development,The Meatball Shop
+186,1477209,test,Prosperity Dumpling
+187,1478334,development,Chipotle Mexican Grill $1.99 Delivery
+188,1477872,development,Shake Shack
+189,1478417,development,Blue Ribbon Fried Chicken
+190,1477401,development,Sushi of Gari
+191,1477764,test,Yama 49
+192,1477835,development,Blue Ribbon Fried Chicken
+193,1476997,development,Yama Japanese Restaurant
+194,1477519,development,Momoya
+195,1477004,development,Five Guys Burgers and Fries
+196,1477536,test,Piccolo Angolo
+197,1478313,development,Momoya
+198,1477290,development,Shake Shack
+199,1476648,development,RedFarm Broadway
+200,1476657,development,Hill Country Fried Chicken
+201,1478089,development,Shake Shack
+202,1478026,development,Pepe Rosso To Go
+203,1477768,development,Shake Shack
+204,1477424,test,Han Dynasty
+205,1478378,development,Shake Shack
+206,1477493,development,Shake Shack
+207,1478092,development,Jack's Wife Freda
+208,1477150,development,Five Guys Burgers and Fries
+209,1478157,development,Shake Shack
+210,1478343,development,Momoya
+211,1476860,development,Nobu Next Door
+212,1477675,test,Han Dynasty
+213,1476799,development,L'Express
+214,1476598,test,Parm
+215,1477277,development,Bareburger
+216,1476682,development,Mission Cantina
+217,1477047,development,5 Napkin Burger
+218,1478173,test,Han Dynasty
+219,1477528,test,Han Dynasty
+220,1478426,development,Blue Ribbon Sushi Bar & Grill
+221,1476696,test,Han Dynasty
+222,1478189,test,Han Dynasty
+223,1477532,development,Amma
+224,1477324,development,Blue Ribbon Sushi Izakaya
+225,1476698,test,Delicatessen
+226,1478290,development,Sushi of Gari 46
+227,1476919,development,Blue Ribbon Sushi Bar & Grill
+228,1477247,development,Blue Ribbon Fried Chicken
+229,1477794,development,Sarabeth's East
+230,1477048,development,Osteria Morini
+231,1477615,development,Rubirosa
+232,1476566,development,S'MAC
+233,1477310,development,Vanessa's Dumplings
+234,1477758,development,Blue Ribbon Sushi Izakaya
+235,1477765,development,Tamarind TriBeCa
+236,1476753,test,Cafe Habana
+237,1476759,development,Sushi of Gari 46
+238,1477333,test,Bhatti Indian Grill
+239,1476830,development,Cafeteria
+240,1478227,development,Taro Sushi
+241,1476789,development,Yama Japanese Restaurant
+242,1477603,development,Blue Ribbon Sushi
+243,1478246,test,Delicatessen
+244,1476931,development,Hill Country Fried Chicken
+245,1477029,development,The Meatball Shop
+246,1476849,development,Pepe Rosso To Go
+247,1478179,test,Han Dynasty
+248,1477679,development,Bareburger
+249,1477810,test,Bistango
+250,1477342,development,The Meatball Shop
+251,1478133,development,Blue Ribbon Sushi Bar & Grill
+252,1477756,development,Shake Shack
+253,1477721,development,Donburi-ya
+254,1476952,development,Balthazar Boulangerie
+255,1477587,development,Hatsuhana
+256,1478210,development,Vanessa's Dumplings
+257,1477887,development,RedFarm Broadway
+258,1478366,test,Samurai Mama
+259,1478279,development,Waverly Diner
+260,1476819,development,Tarallucci e Vino Restaurant
+261,1477394,development,Momoya
+262,1476667,development,P.J. Clarke's
+263,1476975,development,Blue Ribbon Fried Chicken
+264,1477909,development,Blue Ribbon Fried Chicken
+265,1476579,development,The Meatball Shop
+266,1477286,development,The Meatball Shop
+267,1478436,development,Amma
+268,1476685,development,The Meatball Shop
+269,1477912,development,The Meatball Shop
+270,1476892,test,Lantern Thai Kitchen
+271,1476882,development,Shake Shack
+272,1477314,development,ilili Restaurant
+273,1477712,test,Yama 49
+274,1477057,test,Blue Ribbon Brooklyn
+275,1477926,development,P.J. Clarke's
+276,1477273,development,RedFarm Broadway
+277,1478003,development,Otto Enoteca Pizzeria
+278,1477522,development,RedFarm Hudson
+279,1476947,development,The Meatball Shop
+280,1478295,development,Momoya
+281,1476551,development,The Smile
+282,1476846,test,Parm
+283,1476974,development,Shake Shack
+284,1478005,development,Blue Ribbon Sushi Bar & Grill
+285,1476653,development,RedFarm Hudson
+286,1476563,development,Blue Ribbon Sushi Bar & Grill
+287,1478440,development,Momoya
+288,1477348,development,Bareburger
+289,1477525,test,TAO
+290,1477920,development,Balthazar Boulangerie
+291,1477797,development,Shake Shack
+292,1477640,development,RedFarm Broadway
+293,1477091,development,Chipotle Mexican Grill $1.99 Delivery
+294,1477010,development,The Meatball Shop
+295,1478324,development,Blue Ribbon Fried Chicken
+296,1477908,development,Vanessa's Dumpling House
+297,1477573,development,RedFarm Broadway
+298,1476728,development,Bubby's
+299,1477815,development,RedFarm Hudson
+300,1477283,development,RedFarm Hudson
+301,1476856,development,Woorijip
+302,1477265,development,The Smile
+303,1477723,development,Shake Shack
+304,1478020,development,The Meatball Shop
+305,1477729,development,RedFarm Broadway
+306,1477312,development,Dirty Bird To Go (archived)
+307,1476577,development,The Meatball Shop
+308,1477032,development,Rubirosa
+309,1478221,development,Rubirosa
+310,1477747,development,Blue Ribbon Sushi
+311,1477389,development,Lucky's Famous Burgers
+312,1477983,development,Five Guys Burgers and Fries
+313,1477642,development,Haveli Indian Restaurant
+314,1478229,development,Blue Ribbon Fried Chicken
+315,1477270,development,Shake Shack
+316,1477301,development,Blue Ribbon Fried Chicken
+317,1476821,development,Bareburger
+318,1476979,development,Dos Caminos
+319,1477762,development,Chipotle Mexican Grill $1.99 Delivery
+320,1476906,development,Shake Shack
+321,1476867,development,da Umberto
+322,1477834,development,The Meatball Shop
+323,1477577,development,Shake Shack
+324,1477492,development,Blue Ribbon Sushi Bar & Grill
+325,1476848,development,Dirty Bird To Go (archived)
+326,1477870,development,Mission Cantina
+327,1477714,development,Shake Shack
+328,1478075,development,The Meatball Shop
+329,1477677,test,Parm
+330,1476589,development,Sushi of Gari
+331,1477828,development,Tamarind TriBeCa
+332,1477680,development,P.J. Clarke's
+333,1477468,development,Tortaria
+334,1476619,development,RedFarm Hudson
+335,1476702,test,Cafe Habana
+336,1478081,development,Blue Ribbon Sushi Bar & Grill
+337,1477598,development,Hill Country Fried Chicken
+338,1477624,development,Shake Shack
+339,1476773,development,Shake Shack
+340,1478299,development,Lucky's Famous Burgers
+341,1477326,test,Han Dynasty
+342,1478152,test,Parm
+343,1478396,test,Cafe Mogador
+344,1477537,development,Blue Ribbon Sushi
+345,1478372,test,Sushi Samba
+346,1478338,development,Vanessa's Dumpling House
+347,1477025,development,Shake Shack
+348,1477158,development,Shake Shack
+349,1477375,development,Shake Shack
+350,1478316,development,Shake Shack
+351,1476553,development,Osteria Morini
+352,1478330,development,The Meatball Shop
+353,1476999,development,Pepe Rosso To Go
+354,1476569,development,Sushi of Gari Tribeca
+355,1477040,development,Vanessa's Dumplings
+356,1476599,development,Bubby's
+357,1476548,development,Blue Ribbon Sushi
+358,1477099,development,Blue Ribbon Sushi
+359,1477508,development,Momoya
+360,1478067,development,Shake Shack
+361,1476946,development,Burger Joint
+362,1477339,development,RedFarm Hudson
+363,1477490,development,ilili Restaurant
+364,1477135,test,Pylos
+365,1477931,development,Room Service
+366,1477822,development,Blue Ribbon Sushi
+367,1477360,development,Sarabeth's Restaurant
+368,1477163,development,Shake Shack
+369,1476732,development,Blue Ribbon Fried Chicken
+370,1477987,development,Blue Ribbon Sushi
+371,1478315,development,Shake Shack
+372,1476941,development,Sarabeth's East
+373,1477014,test,Xe May Sandwich Shop
+374,1476640,development,Hibino
+375,1478272,test,The Kati Roll Company
+376,1477026,development,CafÌ© China
+377,1476897,development,Hill Country Fried Chicken
+378,1476560,development,Shake Shack
+379,1477007,development,Yama Japanese Restaurant
+380,1477958,development,Blue Ribbon Fried Chicken
+381,1478102,development,The Smile
+382,1478088,development,Nobu Next Door
+383,1478252,development,Dos Caminos
+384,1477964,development,The Meatball Shop
+385,1477708,development,Bareburger
+386,1476623,development,Blue Ribbon Fried Chicken
+387,1476912,development,Yama Japanese Restaurant
+388,1478104,development,Osteria Morini
+389,1478065,development,RedFarm Broadway
+390,1477196,test,Cafe Habana
+391,1477531,development,RedFarm Broadway
+392,1476580,development,Waverly Diner
+393,1477844,development,Mira Sushi
+394,1477192,development,Vanessa's Dumpling House
+395,1476618,development,Shake Shack
+396,1477256,development,Shake Shack
+397,1477919,development,Five Guys Burgers and Fries
+398,1478120,development,Blue Ribbon Fried Chicken
+399,1477791,development,Shake Shack
+400,1477806,test,Boqueria
+401,1477631,development,The Meatball Shop
+402,1477566,development,Shake Shack
+403,1477156,development,ilili Restaurant
+404,1478136,development,Five Guys Burgers and Fries
+405,1477690,development,Melt Shop
+406,1477237,development,Jack's Wife Freda
+407,1477107,development,Shake Shack
+408,1478108,development,Momoya
+409,1478047,development,Blue Ribbon Fried Chicken
+410,1477535,development,S'MAC
+411,1477517,development,The Meatball Shop
+412,1478029,development,S'MAC
+413,1476585,development,S'MAC
+414,1477620,development,Tamarind TriBeCa
+415,1476664,development,Blue Ribbon Fried Chicken
+416,1478422,development,The Meatball Shop
+417,1477482,development,Yama Japanese Restaurant
+418,1477271,development,The Meatball Shop
+419,1477094,development,Blue Ribbon Fried Chicken
+420,1477722,development,Dos Caminos
+421,1476831,development,RedFarm Broadway
+422,1477843,development,Blue Ribbon Sushi Izakaya
+423,1477323,development,RedFarm Hudson
+424,1477066,development,Shake Shack
+425,1477914,development,Blue Ribbon Sushi Bar & Grill
+426,1478064,test,Han Dynasty
+427,1477711,development,J. G. Melon
+428,1477410,development,Mamoun's Falafel
+429,1477278,development,Hummus Place
+430,1477663,development,Nobu Next Door
+431,1477195,development,Cafeteria
+432,1477737,development,Tarallucci e Vino Restaurant
+433,1477058,test,The Kati Roll Company
+434,1476996,development,Sushi of Gari 46
+435,1477193,development,P.J. Clarke's
+436,1476596,development,The Meatball Shop
+437,1477154,development,S'MAC
+438,1478278,development,Blue Ribbon Fried Chicken
+439,1478355,development,The Meatball Shop
+440,1476557,development,Otto Enoteca Pizzeria
+441,1477264,development,The Meatball Shop
+442,1476806,development,Chipotle Mexican Grill $1.99 Delivery
+443,1478000,development,ilili Restaurant
+444,1478159,development,Shake Shack
+445,1476910,test,TAO
+446,1476660,development,Blue Ribbon Sushi
+447,1477558,test,Cafe Mogador
+448,1477458,development,Shake Shack
+449,1477233,development,Saravanaa Bhavan
+450,1477772,test,TAO
+451,1477319,development,Westville Hudson
+452,1477731,development,Blue Ribbon Sushi Izakaya
+453,1477571,development,Blue Ribbon Fried Chicken
+454,1477274,development,Melt Shop
+455,1477276,development,Friend of a Farmer
+456,1478046,development,The Loop
+457,1478398,development,Blue Ribbon Fried Chicken
+458,1477991,development,The Meatball Shop
+459,1478267,test,Han Dynasty
+460,1477901,development,indikitch
+461,1478247,development,Sushi of Gari
+462,1477875,development,Blue Ribbon Sushi Bar & Grill
+463,1476749,development,Sushi of Gari Tribeca
+464,1477600,test,Hangawi
+465,1477500,test,Cafe Habana
+466,1477498,development,RedFarm Hudson
+467,1478337,development,Empanada Mama (closed)
+468,1476736,development,Nobu Next Door
+469,1477372,development,Sushi of Gari Tribeca
+470,1477126,development,Nobu Next Door
+471,1478158,development,Balade
+472,1476586,development,Osteria Morini
+473,1477951,development,The Odeon
+474,1477472,development,RedFarm Hudson
+475,1476738,test,Yama 49
+476,1477445,development,Donburi-ya
+477,1477738,development,Osteria Morini
+478,1477403,development,The Meatball Shop
+479,1477392,development,Chipotle Mexican Grill $1.99 Delivery
+480,1476877,development,The Loop
+481,1477877,development,RedFarm Broadway
+482,1477586,development,The Meatball Shop
+483,1477936,development,Blue Ribbon Sushi
+484,1478209,development,Shake Shack
+485,1477643,development,RedFarm Hudson
+486,1477809,test,Posto
+487,1478380,development,The Meatball Shop
+488,1477516,test,Han Dynasty
+489,1476915,development,Pepe Rosso To Go
+490,1478109,development,Nobu Next Door
+491,1476914,test,Parm
+492,1477463,development,Mamoun's Falafel
+493,1477521,development,RedFarm Hudson
+494,1477427,test,The Kati Roll Company
+495,1476944,development,Terakawa Ramen
+496,1477929,development,Nobu Next Door
+497,1477220,development,Kambi Ramen House
+498,1476866,development,Blue Ribbon Sushi
+499,1477037,development,Blue Ribbon Sushi
+500,1477495,development,Shake Shack
+501,1477248,development,Shake Shack
+502,1476740,development,Jack's Wife Freda
+503,1477238,development,Blue Ribbon Sushi
+504,1478052,development,Shake Shack
+505,1477130,development,Wo Hop Restaurant
+506,1477856,development,The Smile
+507,1477592,development,Shake Shack
+508,1477659,development,Shake Shack
+509,1477661,development,Blue Ribbon Fried Chicken
+510,1477230,development,Shake Shack
+511,1476624,development,Momoya
+512,1477832,development,Spice Thai
+513,1477749,test,Cafe Habana
+514,1478037,development,da Umberto
+515,1477109,development,Sushi of Gari 46
+516,1476902,development,Room Service
+517,1476916,development,Dickson's Farmstand Meats
+518,1476703,test,TAO
+519,1477785,development,Xi'an Famous Foods
+520,1476650,development,J. G. Melon
+521,1476643,development,Momoya
+522,1477371,development,UVA Wine Bar & Restaurant
+523,1476994,development,Blue Ribbon Sushi Bar & Grill
+524,1476934,development,Jack's Wife Freda
+525,1476954,development,Momoya
+526,1478160,development,Donburi-ya
+527,1478228,test,TAO
+528,1478002,development,The Meatball Shop
+529,1478112,development,The Meatball Shop
+530,1478114,development,Shake Shack
+531,1477400,development,Sushi of Gari Tribeca
+532,1478274,development,Waverly Diner
+533,1477804,development,The Meatball Shop
+534,1477572,development,Vanessa's Dumpling House
+535,1476904,development,Blue Ribbon Sushi
+536,1477336,development,The Meatball Shop
+537,1476929,development,S'MAC
+538,1477812,development,Rubirosa
+539,1477210,development,Shake Shack
+540,1477873,development,Shake Shack
+541,1477858,development,Rubirosa
+542,1477788,development,P.J. Clarke's
+543,1476711,development,Blue Ribbon Fried Chicken
+544,1477997,development,Blue Ribbon Sushi Izakaya
+545,1477523,development,RedFarm Broadway
+546,1476572,development,Blue Ribbon Fried Chicken
+547,1476895,development,Burger Joint
+548,1478236,development,Chipotle Mexican Grill $1.99 Delivery
+549,1476628,test,Parm
+550,1476927,development,Sushi of Gari 46
+551,1477547,development,Rubirosa
+552,1478349,development,Balthazar Boulangerie
+553,1477850,development,Blue Ribbon Sushi
+554,1478048,development,Burger Joint
+555,1477133,development,Shake Shack
+556,1476746,development,ilili Restaurant
+557,1477724,development,RedFarm Hudson
+558,1476911,development,Bareburger
+559,1478292,development,Tamarind TriBeCa
+560,1478024,development,Sushi of Gari Tribeca
+561,1478281,development,Blue Ribbon Sushi
+562,1478009,test,Parm
+563,1476898,test,Han Dynasty
+564,1477285,development,RedFarm Broadway
+565,1478335,development,Nobu Next Door
+566,1477934,development,RedFarm Broadway
+567,1476645,development,Serafina Fabulous Pizza
+568,1477450,development,Blue Ribbon Sushi
+569,1477657,test,Lantern Thai Kitchen
+570,1478135,development,The Meatball Shop
+571,1477254,development,Blue Ribbon Sushi
+572,1477705,development,Jack's Wife Freda
+573,1477814,test,Pylos
+574,1478059,test,Gaia Italian Cafe
+575,1478192,development,Shake Shack
+576,1477743,development,Blue Ribbon Sushi
+577,1477203,development,The Meatball Shop
+578,1477292,test,Parm
+579,1477178,development,Bareburger
+580,1478283,development,J. G. Melon
+581,1477321,development,Five Guys Burgers and Fries
+582,1477322,development,CafÌ© China
+583,1477879,development,ilili Restaurant
+584,1476741,development,Blue Ribbon Sushi Izakaya
+585,1478303,development,Sushi of Gari
+586,1476647,test,Piccolo Angolo
+587,1476669,development,Chola Eclectic Indian Cuisine
+588,1477049,test,TAO
+589,1477602,development,Vanessa's Dumplings
+590,1477088,development,Mamoun's Falafel
+591,1476964,development,RedFarm Broadway
+592,1477981,development,Westville Hudson
+593,1476717,development,Pongsri Thai
+594,1477851,development,Blue Ribbon Sushi Izakaya
+595,1478063,test,Parm
+596,1477636,test,Parm
+597,1477763,development,Blue Ribbon Sushi
+598,1477944,development,Rubirosa
+599,1478073,test,TAO
+600,1478357,development,Blue Ribbon Sushi
+601,1478055,development,indikitch
+602,1476815,test,Prosperity Dumpling
+603,1477019,development,RedFarm Hudson
+604,1477159,development,Shake Shack
+605,1478409,development,Melt Shop
+606,1477471,development,Hot Kitchen
+607,1476747,test,Junoon
+608,1477165,development,Blue Ribbon Fried Chicken
+609,1477378,development,Tamarind TriBeCa
+610,1476803,test,Han Dynasty
+611,1477792,development,The Smile
+612,1478331,test,Han Dynasty
+613,1478319,development,The Meatball Shop
+614,1477090,development,Osteria Morini
+615,1477623,development,The Meatball Shop
+616,1477098,development,RedFarm Broadway
+617,1477399,development,Shake Shack
+618,1476649,development,Ravagh Persian Grill
+619,1478288,development,Rohm Thai
+620,1477719,development,RedFarm Hudson
+621,1477816,development,Momoya
+622,1477777,development,Hill Country Fried Chicken
+623,1476637,development,Blue Ribbon Fried Chicken
+624,1477349,development,Nobu Next Door
+625,1478222,development,Vanessa's Dumplings
+626,1476774,development,Shake Shack
+627,1478421,test,Dig Inn Seasonal Market
+628,1476775,development,Shake Shack
+629,1478087,development,Bareburger
+630,1476710,development,Blue Ribbon Sushi Izakaya
+631,1478395,test,Han Dynasty
+632,1478265,development,Dos Caminos
+633,1476625,development,Olea
+634,1477413,development,Shake Shack
+635,1477485,development,Jack's Wife Freda
+636,1476708,development,Nobu Next Door
+637,1477168,test,TAO
+638,1476872,development,Blue Ribbon Sushi
+639,1477161,development,Nobu Next Door
+640,1477799,test,Xe May Sandwich Shop
+641,1477309,development,Rubirosa
+642,1478132,development,Cafeteria
+643,1477456,development,Blue Ribbon Sushi Bar & Grill
+644,1477678,development,Otto Enoteca Pizzeria
+645,1477428,development,Shake Shack
+646,1477359,development,RedFarm Hudson
+647,1477542,development,Shake Shack
+648,1477945,development,Rubirosa
+649,1477211,development,Sarabeth's Restaurant
+650,1477315,test,Cafe Mogador
+651,1478058,development,Amy Ruth's
+652,1476678,development,Shake Shack
+653,1478363,development,Cho Dang Gol
+654,1477288,development,El Parador Cafe
+655,1478350,development,Vanessa's Dumplings
+656,1477651,test,Parm
+657,1476977,development,Shake Shack
+658,1477544,development,RedFarm Hudson
+659,1477487,test,TAO
+660,1477187,development,Chipotle Mexican Grill $1.99 Delivery
+661,1478387,development,Jack's Wife Freda
+662,1476955,development,Dirty Bird to Go
+663,1476673,development,Blue Ribbon Sushi Izakaya
+664,1476909,development,Blue Ribbon Sushi Bar & Grill
+665,1478204,development,Blue Ribbon Fried Chicken
+666,1476613,development,Chipotle Mexican Grill $1.99 Delivery
+667,1476739,development,Socarrat Paella Bar
+668,1476617,development,The Meatball Shop
+669,1477563,development,Shake Shack
+670,1477302,development,Don's Bogam BBQ & Wine Bar
+671,1478217,development,Tamarind TriBeCa
+672,1478341,development,Shake Shack
+673,1477200,test,Han Dynasty
+674,1476982,development,Bareburger
+675,1478367,development,Blue Ribbon Sushi Izakaya
+676,1477852,development,da Umberto
+677,1477325,test,Parm
+678,1477524,development,Xi'an Famous Foods
+679,1477430,development,Five Leaves
+680,1477197,development,Alidoro
+681,1476763,development,RedFarm Broadway
+682,1476893,development,Tony's Di Napoli
+683,1476884,development,Shake Shack
+684,1477693,development,Bareburger
+685,1478170,development,Blue Ribbon Sushi Izakaya
+686,1477676,development,Blue Ribbon Sushi
+687,1477637,development,Nobu Next Door
+688,1477922,development,Westville Hudson
+689,1478151,development,Cipriani Le Specialita
+690,1477219,development,The Meatball Shop
+691,1478018,development,Shake Shack
+692,1477998,development,Blue Ribbon Sushi
+693,1477170,development,The Meatball Shop
+694,1478282,test,Cafe Habana
+695,1477826,development,RedFarm Broadway
+696,1477890,development,Shake Shack
+697,1477045,development,Chipotle Mexican Grill $1.99 Delivery
+698,1478430,development,The Loop
+699,1477160,development,The Meatball Shop
+700,1477605,development,Momoya
+701,1478351,development,Blue Ribbon Sushi
+702,1477017,test,TAO
+703,1478202,development,Burger Joint
+704,1478053,test,Barbounia
+705,1476933,development,Shake Shack
+706,1476656,development,RedFarm Hudson
+707,1478071,development,Five Guys Burgers and Fries
+708,1476800,development,Blue Ribbon Sushi
+709,1477568,development,Blue Ribbon Fried Chicken
+710,1478332,development,Five Guys Burgers and Fries
+711,1477504,development,Empanada Mama (closed)
+712,1477597,development,Shake Shack
+713,1478001,development,Blue Ribbon Fried Chicken
+714,1477127,development,Shake Shack
+715,1477846,development,Blue Ribbon Sushi
+716,1477297,development,Tony's Di Napoli
+717,1477838,test,Han Dynasty
+718,1477112,development,Blue Ribbon Fried Chicken
+719,1477355,development,Blue Ribbon Sushi
+720,1477365,development,Shake Shack
+721,1477266,development,Saravanaa Bhavan
+722,1477800,test,Sushi Choshi
+723,1478428,development,The Smile
+724,1478400,development,Chipotle Mexican Grill $1.99 Delivery
+725,1478403,development,RedFarm Broadway
+726,1477970,test,Cafe Habana
+727,1476928,development,The Meatball Shop
+728,1477020,development,Rubirosa
+729,1477973,development,RedFarm Hudson
+730,1478406,development,Sarabeth's East
+731,1477701,development,Kanoyama
+732,1477318,development,UVA Wine Bar & Restaurant
+733,1477438,test,Parm
+734,1478376,development,RedFarm Broadway
+735,1477367,development,Blue Ribbon Fried Chicken
+736,1477754,development,P.J. Clarke's
+737,1478280,development,Shake Shack
+738,1478412,development,RedFarm Hudson
+739,1476887,development,Blue Ribbon Sushi
+740,1478382,development,Nobu Next Door
+741,1478115,development,Shake Shack
+742,1476782,development,The Meatball Shop
+743,1478178,development,The Meatball Shop
+744,1478294,development,Shake Shack
+745,1477854,development,Tamarind TriBeCa
+746,1477189,development,V-Nam Cafe
+747,1476894,development,Don's Bogam BBQ & Wine Bar
+748,1476807,development,Blue Ribbon Sushi
+749,1477937,development,The Meatball Shop
+750,1478407,test,Parm
+751,1478199,test,Han Dynasty
+752,1478389,development,Sushi of Gari Tribeca
+753,1478103,development,Blue Ribbon Sushi
+754,1476824,development,Momoya
+755,1478441,development,RedFarm Hudson
+756,1478399,test,Han Dynasty
+757,1477635,development,Amma
+758,1476797,development,Blue Ribbon Sushi
+759,1476652,development,ilili Restaurant
+760,1478196,development,Blue Ribbon Sushi Bar & Grill
+761,1477862,development,Shake Shack
+762,1478141,development,Vanessa's Dumpling House
+763,1476962,development,Blue Ribbon Sushi
+764,1477959,development,Otto Enoteca Pizzeria
+765,1477426,development,Blue Ribbon Sushi
+766,1478049,test,TAO
+767,1477811,development,Blue Ribbon Sushi
+768,1478068,development,The Smile
+769,1477002,development,ilili Restaurant
+770,1477139,development,Tortaria
+771,1478150,development,Shake Shack
+772,1476603,development,Shake Shack
+773,1476752,development,Nobu Next Door
+774,1477073,development,Shake Shack
+775,1477823,development,Bareburger
+776,1476684,development,Shake Shack
+777,1477892,test,Parm
+778,1477481,development,Bareburger
+779,1477538,development,Hill Country Fried Chicken
+780,1476626,development,The Meatball Shop
+781,1477557,development,The Meatball Shop
+782,1477684,test,TAO
+783,1477865,test,Parm
+784,1477612,development,Shake Shack
+785,1476620,development,Tamarind TriBeCa
+786,1477244,development,Bubby's
+787,1477231,development,Shake Shack
+788,1477576,development,Rubirosa
+789,1478203,development,Hatsuhana
+790,1476890,test,Han Dynasty
+791,1477059,development,Blue Ribbon Sushi
+792,1477038,development,The Meatball Shop
+793,1478220,development,Blue Ribbon Sushi
+794,1477459,development,Sushi of Gari 46
+795,1478214,test,TAO
+796,1476636,development,Terakawa Ramen
+797,1477807,development,Blue Ribbon Sushi
+798,1477841,development,Rubirosa
+799,1476998,development,Blue Ribbon Sushi Bar & Grill
+800,1477900,development,Sushi of Gari Tribeca
+801,1477173,development,Blue Ribbon Fried Chicken
+802,1476876,development,RedFarm Broadway
+803,1477496,test,Parm
+804,1476845,development,Blue Ribbon Sushi
+805,1476642,development,Blue Ribbon Fried Chicken
+806,1477801,development,Zero Otto Nove
+807,1477594,development,Bareburger
+808,1478318,test,TAO
+809,1476734,development,Shake Shack
+810,1477202,development,Joe's Shanghai _Àü£¾÷´
+811,1478180,development,The Smile
+812,1477992,development,Blue Ribbon Sushi Izakaya
+813,1477164,development,Shake Shack
+814,1478386,development,The Meatball Shop
+815,1476756,development,Shake Shack
+816,1477989,development,ilili Restaurant
+817,1477972,development,Shake Shack
+818,1477452,development,Shake Shack
+819,1477578,development,Blue Ribbon Sushi
+820,1478208,development,The Meatball Shop
+821,1477215,development,Blue Ribbon Sushi Bar & Grill
+822,1477479,development,Blue Ribbon Sushi
+823,1476675,development,Shake Shack
+824,1476854,development,Blue Ribbon Fried Chicken
+825,1478275,development,Five Guys Burgers and Fries
+826,1477604,development,RedFarm Hudson
+827,1477039,development,Hill Country Fried Chicken
+828,1477100,development,Sushi of Gari
+829,1478008,development,Dos Caminos
+830,1478298,development,Blue Ribbon Sushi Bar & Grill
+831,1477085,development,J. G. Melon
+832,1477052,development,Mira Sushi
+833,1478042,test,TAO
+834,1476605,development,Blue Ribbon Sushi Bar & Grill
+835,1477825,development,L'Express
+836,1476735,development,Blue Ribbon Sushi Bar & Grill
+837,1476686,development,Blue Ribbon Sushi
+838,1478435,development,RedFarm Hudson
+839,1476802,development,Blue Ribbon Sushi
+840,1478416,development,RedFarm Broadway
+841,1477893,development,Mamoun's Falafel
+842,1477018,development,Shake Shack
+843,1477706,development,Jack's Wife Freda
+844,1476971,test,Parm
+845,1477470,development,Shake Shack
+846,1477755,development,Cafeteria
+847,1478084,development,Blue Ribbon Sushi
+848,1478163,development,Shake Shack
+849,1478431,development,S'MAC
+850,1477559,development,P.J. Clarke's
+851,1477666,development,Blue Ribbon Fried Chicken
+852,1477746,development,Don's Bogam BBQ & Wine Bar
+853,1478358,development,The Meatball Shop
+854,1476863,development,The Meatball Shop
+855,1477041,test,Junoon
+856,1478438,development,Blue Ribbon Sushi Bar & Grill
+857,1476616,test,Parm
+858,1476968,development,Jack's Wife Freda
+859,1478045,test,Yama 49
+860,1477660,development,Sarabeth's Restaurant
+861,1476584,development,Shake Shack
+862,1477619,development,Blue Ribbon Fried Chicken
+863,1477033,development,Sushi of Gari 46
+864,1477308,development,Shake Shack
+865,1476588,development,RedFarm Hudson
+866,1476713,development,Blue Ribbon Sushi Izakaya
+867,1477036,development,Shake Shack
+868,1477340,development,Blue Ribbon Sushi
+869,1477682,test,TAO
+870,1477514,development,The Meatball Shop
+871,1477046,development,Dos Caminos Soho
+872,1477593,test,Parm
+873,1476716,development,Saravanaa Bhavan
+874,1477357,development,Go! Go! Curry!
+875,1476576,development,Blue Ribbon Sushi
+876,1477888,development,J. G. Melon
+877,1476814,development,La Follia
+878,1477212,development,The Meatball Shop
+879,1477078,development,Izakaya Ten
+880,1477061,development,Blue Ribbon Sushi
+881,1477116,test,The Kati Roll Company
+882,1478128,test,TAO
+883,1477118,development,Nobu Next Door
+884,1476646,development,Hot Kitchen
+885,1478286,development,Blue Ribbon Sushi Izakaya
+886,1477876,development,Rubirosa
+887,1478443,test,Cafe Mogador
+888,1478195,development,Blue Ribbon Fried Chicken
+889,1477787,development,Shake Shack
+890,1477093,development,Serafina Fabulous Pizza
+891,1477140,development,Blue Ribbon Sushi
+892,1477024,development,Nobu Next Door
+893,1478035,development,Blue Ribbon Fried Chicken
+894,1477541,test,Han Dynasty
+895,1477499,development,Xi'an Famous Foods
+896,1478085,development,Tony's Di Napoli
+897,1477374,test,Lantern Thai Kitchen
+898,1477882,development,RedFarm Broadway
+899,1477713,development,Blue Ribbon Fried Chicken
+900,1477115,development,Shake Shack
+901,1476658,development,P.J. Clarke's
+902,1477491,development,Sushi of Gari Tribeca
+903,1477867,development,Tony's Di Napoli
+904,1478097,development,Westville Hudson
+905,1478401,test,The Kati Roll Company
+906,1477382,test,Han Dynasty
+907,1478414,development,Nobu Next Door
+908,1477638,test,Parm
+909,1477183,development,Blue Ribbon Fried Chicken
+910,1477681,development,12 Chairs
+911,1477582,development,Blue Ribbon Sushi
+912,1477190,development,Kanoyama
+913,1477043,development,Blue Ribbon Sushi
+914,1477136,test,Parm
+915,1476972,test,Bhatti Indian Grill
+916,1476627,development,Westville Hudson
+917,1477148,development,The Meatball Shop
+918,1478165,development,RedFarm Hudson
+919,1476622,test,Philippe Chow
+920,1477246,development,Bukhara Grill
+921,1477512,development,Sushi of Gari Tribeca
+922,1477696,development,RedFarm Broadway
+923,1476578,development,Donburi-ya
+924,1477171,development,Chipotle Mexican Grill $1.99 Delivery
+925,1477960,development,12 Chairs
+926,1478260,development,Blue Ribbon Sushi Bar & Grill
+927,1476720,development,Dirty Bird To Go (archived)
+928,1476767,development,Blue Ribbon Sushi Izakaya
+929,1477839,development,The MasalaWala
+930,1477462,test,Han Dynasty
+931,1477120,development,Blue Ribbon Sushi
+932,1476858,development,Blue Ribbon Sushi
+933,1476967,test,TAO
+934,1477808,development,Vezzo Thin Crust Pizza
+935,1477902,development,Shake Shack
+936,1477416,development,Vezzo Thin Crust Pizza
+937,1476833,development,Sushi of Gari 46
+938,1476813,test,Han Dynasty
+939,1477907,development,Blue Ribbon Fried Chicken
+940,1477668,test,Han Dynasty
+941,1477306,test,brgr
+942,1478257,test,Cafe Mogador
+943,1477662,development,Hill Country Fried Chicken
+944,1478161,development,Sushi of Gari
+945,1478225,development,Sushi of Gari
+946,1476839,development,Shake Shack
+947,1477847,development,Blue Ribbon Sushi
+948,1476718,development,Vanessa's Dumpling House
+949,1478429,development,Shake Shack
+950,1476885,development,Vanessa's Dumplings
+951,1478230,development,RedFarm Hudson
+952,1478162,test,TAO
+953,1477645,development,Blue Ribbon Fried Chicken
+954,1477583,development,Melt Shop
+955,1477214,development,Five Guys Burgers and Fries
+956,1477529,development,The Smile
+957,1477648,development,Blue Ribbon Sushi
+958,1476874,development,RedFarm Hudson
+959,1477097,development,Sushi of Gari 46
+960,1477974,test,Parm
+961,1478036,development,Burger Joint
+962,1478371,test,Cafe Habana
+963,1476730,development,Chipotle Mexican Grill $1.99 Delivery
+964,1476768,development,Jack's Wife Freda
+965,1476786,development,Blue Ribbon Sushi
+966,1478242,development,Pinto Nouveau Thai Bistro
+967,1477773,development,Shake Shack
+968,1477063,development,The Meatball Shop
+969,1477419,development,Shake Shack
+970,1476864,development,RedFarm Broadway
+971,1476791,development,RedFarm Broadway
+972,1477054,development,Sushi of Gari Tribeca
+973,1478184,development,The Meatball Shop
+974,1476851,development,Carmine's
+975,1476597,development,Shake Shack
+976,1477241,development,Jack's Wife Freda
+977,1477282,development,Sushi of Gari Tribeca
+978,1477874,test,Parm
+979,1476852,development,Five Guys Burgers and Fries
+980,1476958,development,Blue Ribbon Fried Chicken
+981,1477226,development,The Meatball Shop
+982,1477327,development,Nobu Next Door
+983,1476905,development,Blue Ribbon Sushi Bar & Grill
+984,1478433,development,Haandi
+985,1476666,development,Shake Shack
+986,1476552,development,Melt Shop
+987,1477137,development,P.J. Clarke's
+988,1477440,development,Blue Ribbon Fried Chicken
+989,1477545,development,Shake Shack
+990,1478215,development,Sarabeth's East
+991,1478301,development,Asuka Sushi
+992,1477294,development,The Meatball Shop
+993,1477235,development,Rubirosa
+994,1478012,development,Yama Japanese Restaurant
+995,1477005,development,Nobu Next Door
+996,1476600,development,P.J. Clarke's
+997,1478270,development,Shake Shack
+998,1477299,development,ilili Restaurant
+999,1477388,development,Blue Ribbon Sushi Izakaya
+1000,1477221,development,Blue Ribbon Sushi Izakaya
+1001,1476691,development,Sushi of Gari Tribeca
+1002,1476838,development,Burger Joint
+1003,1477913,test,Aurora
+1004,1477453,development,Shake Shack
+1005,1477946,development,Hill Country Fried Chicken
+1006,1477395,test,Parm
+1007,1478404,development,Blue Ribbon Sushi Bar & Grill
+1008,1476567,development,Blue Ribbon Sushi
+1009,1476903,development,Sarabeth's
+1010,1478374,development,Rubirosa
+1011,1476764,test,Sushi Samba
+1012,1476629,development,Melt Shop
+1013,1476936,development,Blue Ribbon Sushi Bar & Grill
+1014,1478342,development,Osteria Morini
+1015,1477229,development,Hatsuhana
+1016,1476961,development,Blue Ribbon Sushi
+1017,1477332,development,RedFarm Hudson
+1018,1478193,development,Five Guys Burgers and Fries
+1019,1478410,development,The Meatball Shop
+1020,1477080,test,The Kati Roll Company
+1021,1477169,development,Blue Ribbon Sushi Bar & Grill
+1022,1476761,development,Blue Ribbon Fried Chicken
+1023,1477584,test,Cafe Habana
+1024,1477916,development,Blue Ribbon Fried Chicken
+1025,1476561,development,Tamarind TriBeCa
+1026,1477072,test,Parm
+1027,1476755,development,Waverly Diner
+1028,1478293,test,Barbounia
+1029,1477142,development,Rubirosa
+1030,1477494,test,Crema Restaurante
+1031,1477176,development,Tamarind TriBeCa
+1032,1478383,development,Shake Shack
+1033,1476917,test,Big Daddy's
+1034,1478082,development,Yama Japanese Restaurant
+1035,1477502,development,Sushi of Gari 46
+1036,1477734,development,The Meatball Shop
+1037,1477151,development,Blue Ribbon Sushi Bar & Grill
+1038,1478333,development,Sushi of Gari 46
+1039,1477013,development,Donburi-ya
+1040,1476949,development,Pepe Rosso To Go
+1041,1477779,test,TAO
+1042,1478131,test,Parm
+1043,1477769,test,TAO
+1044,1478099,test,Parm
+1045,1476810,development,Amma
+1046,1477279,test,TAO
+1047,1478309,development,Momoya
+1048,1477368,test,Parm
+1049,1477409,development,Shake Shack
+1050,1477506,development,Blue Ribbon Sushi Bar & Grill
+1051,1476888,development,Shake Shack
+1052,1477579,development,Shake Shack
+1053,1477977,test,Han Dynasty
+1054,1478336,development,Tony's Di Napoli
+1055,1477649,test,Cafe Mogador
+1056,1477108,development,Blue Ribbon Sushi
+1057,1477947,development,The Meatball Shop
+1058,1477488,development,Sushi of Gari 46
+1059,1477236,development,Chipotle Mexican Grill $1.99 Delivery
+1060,1478392,test,Parm
+1061,1476940,development,Sushi of Gari 46
+1062,1477671,development,Nobu Next Door
+1063,1476742,test,Aurora
+1064,1478177,development,Blue Ribbon Sushi
+1065,1477035,development,Dickson's Farmstand Meats
+1066,1477923,development,RedFarm Hudson
+1067,1478054,development,Shake Shack
+1068,1477590,development,Blue Ribbon Sushi
+1069,1477984,development,indikitch
+1070,1476828,development,Donburi-ya
+1071,1477234,development,Melt Shop
+1072,1477829,development,Blue Ribbon Sushi
+1073,1477191,development,ilili Restaurant
+1074,1477509,development,Shake Shack
+1075,1477950,development,Blue Ribbon Fried Chicken
+1076,1476679,development,Blue Ribbon Sushi Izakaya
+1077,1478388,development,Pepe Rosso To Go
+1078,1478078,development,Tamarind TriBeCa
+1079,1477443,development,Shake Shack
+1080,1477272,development,The Smile
+1081,1476868,development,Blue Ribbon Sushi Izakaya
+1082,1478432,development,Waverly Diner
+1083,1476988,development,Moonstruck on Second
+1084,1476762,development,Blue Ribbon Sushi Bar & Grill
+1085,1477925,development,RedFarm Hudson
+1086,1478145,development,Melt Shop
+1087,1477042,development,RedFarm Broadway
+1088,1476834,test,Cafe Mogador
+1089,1477446,development,The Meatball Shop
+1090,1477727,development,Blue Ribbon Sushi Izakaya
+1091,1476812,development,Shake Shack
+1092,1477948,development,Serafina Fabulous Pizza
+1093,1477739,development,Rubirosa
+1094,1476801,development,Ravagh Persian Grill
+1095,1477530,test,The Kati Roll Company
+1096,1478140,development,Westville Hudson
+1097,1477398,development,Five Guys Burgers and Fries
+1098,1477575,test,Cafe Mogador
+1099,1477780,test,TAO
+1100,1477726,development,Osteria Morini
+1101,1477703,development,Momoya
+1102,1476631,development,Nobu Next Door
+1103,1476822,development,Empanada Mama (closed)
+1104,1477869,development,Shake Shack
+1105,1478245,test,Junoon
+1106,1477250,development,Nobu Next Door
+1107,1477591,development,Shake Shack
+1108,1477840,development,Blue Ribbon Sushi
+1109,1477613,development,Blue Ribbon Sushi
+1110,1477129,test,Han Dynasty
+1111,1476670,development,The Meatball Shop
+1112,1478155,development,The Meatball Shop
+1113,1477928,development,RedFarm Hudson
+1114,1478233,test,TAO
+1115,1477622,development,The Meatball Shop
+1116,1478130,development,The Meatball Shop
+1117,1477698,test,Parm
+1118,1478080,development,Five Guys Burgers and Fries
+1119,1477533,development,Xi'an Famous Foods
+1120,1476729,test,Han Dynasty
+1121,1477980,development,Blue Ribbon Sushi
+1122,1478019,development,Blue Ribbon Sushi Izakaya
+1123,1477505,test,The Kati Roll Company
+1124,1477204,development,Shake Shack
+1125,1477988,test,Parm
+1126,1478345,test,Cafe de La Esquina
+1127,1478413,development,Olive Garden
+1128,1476639,development,Blue Ribbon Fried Chicken
+1129,1477985,development,Cho Dang Gol
+1130,1477198,development,The Meatball Shop
+1131,1476973,development,Cafeteria
+1132,1477961,development,Jack's Wife Freda
+1133,1477092,development,Benihana
+1134,1477866,development,Blue Ribbon Sushi
+1135,1478041,development,67 Burger
+1136,1477860,development,RedFarm Broadway
+1137,1478232,development,Blue Ribbon Sushi Bar & Grill
+1138,1477023,test,Boqueria
+1139,1477455,development,Rubirosa
+1140,1477709,development,Blue Ribbon Sushi
+1141,1477263,development,Shake Shack
+1142,1477242,development,Blue Ribbon Sushi
+1143,1476788,test,Parm
+1144,1477783,development,RedFarm Broadway
+1145,1478231,development,Blue Ribbon Fried Chicken
+1146,1476798,development,Burger Joint
+1147,1477432,development,Yama Japanese Restaurant
+1148,1478044,development,Jack's Wife Freda
+1149,1477789,test,Sushi Samba
+1150,1477736,development,Westville Hudson
+1151,1478235,development,The Meatball Shop
+1152,1478156,development,Shake Shack
+1153,1478262,development,Melt Shop
+1154,1476554,development,Shake Shack
+1155,1476787,test,TAO
+1156,1476744,development,Serafina Fabulous Pizza
+1157,1476951,development,Waverly Diner
+1158,1477429,development,Five Guys Burgers and Fries
+1159,1476986,test,TAO
+1160,1477441,development,Blue Ribbon Sushi
+1161,1477667,development,Balthazar Boulangerie
+1162,1476583,development,Bareburger
+1163,1478030,development,Bareburger
+1164,1478373,development,V-Nam Cafe
+1165,1477634,development,Blue Ribbon Sushi Bar & Grill
+1166,1476591,development,Blue Ribbon Sushi
+1167,1476704,development,RedFarm Hudson
+1168,1478216,development,Shake Shack
+1169,1478066,development,RedFarm Hudson
+1170,1477626,test,Parm
+1171,1476861,development,Tamarind TriBeCa
+1172,1476899,development,Shake Shack
+1173,1478248,test,Han Dynasty
+1174,1477827,development,Blue Ribbon Sushi Izakaya
+1175,1477227,development,Bareburger
+1176,1478034,development,Sushi of Gari Tribeca
+1177,1478181,development,Benihana
+1178,1477489,development,Tres Carnes
+1179,1476804,development,Schnipper's Quality Kitchen
+1180,1478004,test,Parm
+1181,1477650,development,Shake Shack
+1182,1478069,development,Lucky's Famous Burgers
+1183,1477175,development,Blue Ribbon Fried Chicken
+1184,1477943,development,Sushi of Gari 46
+1185,1477467,development,Sushi of Gari
+1186,1477474,development,Go! Go! Curry!
+1187,1477996,development,Shake Shack
+1188,1477782,development,Dirty Bird to Go
+1189,1477527,test,Parm
+1190,1476837,development,Nha Trang One
+1191,1477686,development,Nobu Next Door
+1192,1476795,development,Shake Shack
+1193,1477599,development,Market Table
+1194,1477564,test,Sushi Samba
+1195,1476733,test,TAO
+1196,1477753,development,Sushi of Gari Tribeca
+1197,1476825,development,Otto Enoteca Pizzeria
+1198,1478010,test,Parm
+1199,1477113,development,Hill Country Fried Chicken
+1200,1476549,development,Tamarind TriBeCa
+1201,1476676,development,Blue Ribbon Sushi
+1202,1477595,development,Blue Ribbon Fried Chicken
+1203,1477618,development,Asuka Sushi
+1204,1477911,development,Sushi of Gari Tribeca
+1205,1476630,development,Five Leaves
+1206,1477546,development,Shake Shack
+1207,1477320,development,Blue Ribbon Fried Chicken
+1208,1477084,development,Shake Shack
+1209,1476726,development,Hatsuhana
+1210,1478427,test,Pylos
+1211,1476743,development,Blue Ribbon Sushi
+1212,1478238,development,Shake Shack
+1213,1476695,development,Blue Ribbon Fried Chicken
+1214,1476573,development,Haveli Indian Restaurant
+1215,1478323,development,Westville Hudson
+1216,1477735,development,Blue Ribbon Fried Chicken
+1217,1477674,development,Rubirosa
+1218,1478006,development,Blue Ribbon Sushi
+1219,1478033,development,Rubirosa
+1220,1478186,development,Shake Shack
+1221,1477776,development,Tamarind TriBeCa
+1222,1478312,test,Han Dynasty
+1223,1477757,development,Shake Shack
+1224,1477291,test,The Kati Roll Company
+1225,1478168,development,Blue Ribbon Fried Chicken
+1226,1477269,test,Sushi Samba
+1227,1477896,development,Pepe Rosso To Go
+1228,1477507,development,Shake Shack
+1229,1478271,development,RedFarm Hudson
+1230,1477853,test,Junoon
+1231,1477001,development,Blue Ribbon Sushi
+1232,1476948,development,Vanessa's Dumpling House
+1233,1478347,development,Blue Ribbon Fried Chicken
+1234,1478098,development,Sushi of Gari 46
+1235,1477457,development,Shake Shack
+1236,1477393,test,Parm
+1237,1476956,development,Saravanaa Bhavan
+1238,1477653,development,Shake Shack
+1239,1477261,development,Sushi of Gari
+1240,1478127,development,Blue Ribbon Fried Chicken
+1241,1476556,development,ilili Restaurant
+1242,1477280,development,RedFarm Broadway
+1243,1477968,development,Sushi of Gari
+1244,1476784,test,Han Dynasty
+1245,1478255,development,Shake Shack
+1246,1478224,development,ilili Restaurant
+1247,1476672,test,Han Dynasty
+1248,1478240,development,Rubirosa
+1249,1477864,development,Dos Caminos
+1250,1476869,development,Blue Ribbon Fried Chicken
+1251,1476886,test,Cafe Mogador
+1252,1478101,test,TAO
+1253,1476712,development,Blue Ribbon Sushi
+1254,1477083,development,Tamarind TriBeCa
+1255,1478164,development,Cho Dang Gol
+1256,1477390,development,Five Guys Burgers and Fries
+1257,1478273,development,Blue Ribbon Sushi Izakaya
+1258,1476900,development,Sarabeth's
+1259,1477060,development,Empanada Mama (closed)
+1260,1477697,development,Momoya
+1261,1477833,development,Shake Shack
+1262,1477295,development,Sushi of Gari 46
+1263,1476655,development,Blue Ribbon Fried Chicken
+1264,1477585,development,Burger Joint
+1265,1478175,development,Sarabeth's
+1266,1477982,development,Go! Go! Curry!
+1267,1476697,development,The Meatball Shop
+1268,1477053,development,Five Guys Burgers and Fries
+1269,1477152,development,Sushi of Gari 46
+1270,1478308,development,Galli Restaurant
+1271,1478028,development,Shake Shack
+1272,1477555,development,V-Nam Cafe
+1273,1478137,development,Izakaya Ten
+1274,1477803,development,Room Service
+1275,1476771,development,P.J. Clarke's
+1276,1478362,development,The Meatball Shop
+1277,1476722,development,Kanoyama
+1278,1477503,development,Westville Hudson
+1279,1478126,test,Parm
+1280,1478076,development,Sarabeth's East
+1281,1477350,development,Blue Ribbon Fried Chicken
+1282,1478111,development,Blue Ribbon Sushi
+1283,1477976,development,RedFarm Broadway
+1284,1477439,development,Five Guys Burgers and Fries
+1285,1477469,test,Cafe Mogador
+1286,1478314,development,Yama Japanese Restaurant
+1287,1476641,test,brgr
+1288,1478194,development,Shake Shack
+1289,1477293,development,The Meatball Shop
+1290,1477884,test,Parm
+1291,1477351,development,Sushi of Gari Tribeca
+1292,1476907,development,Nobu Next Door
+1293,1477817,development,Sushi of Gari 46
+1294,1477408,test,Hampton Chutney Co.
+1295,1477953,development,The Meatball Shop
+1296,1477924,development,The Meatball Shop
+1297,1477995,development,Momoya
+1298,1476709,development,Nobu Next Door
+1299,1478188,development,The Meatball Shop
+1300,1477153,test,Parm
+1301,1477802,development,The Meatball Shop
+1302,1477715,development,Jack's Wife Freda
+1303,1478263,development,Blue Ribbon Fried Chicken
+1304,1477669,development,Byblos Restaurant
+1305,1478187,development,Blue Ribbon Sushi
+1306,1476559,development,Bareburger
+1307,1477464,test,TAO
+1308,1477143,development,The Smile
+1309,1476683,development,Burger Joint
+1310,1477358,test,Boqueria
+1311,1478149,development,Shake Shack
+1312,1477761,development,Blue Ribbon Sushi
+1313,1478311,development,Blue Ribbon Fried Chicken
+1314,1477956,test,Lantern Thai Kitchen
+1315,1476925,development,The Meatball Shop
+1316,1476950,development,P.J. Clarke's
+1317,1477363,development,Blue Ribbon Sushi
+1318,1476832,development,Donburi-ya
+1319,1476681,test,Parm
+1320,1478100,development,Balthazar Boulangerie
+1321,1478218,development,Izakaya Ten
+1322,1477655,development,Empanada Mama (closed)
+1323,1477553,development,L'Express
+1324,1477957,test,TAO
+1325,1476692,development,Nobu Next Door
+1326,1478172,test,Sushi Samba
+1327,1476836,development,Blue Ribbon Sushi Bar & Grill
+1328,1477009,development,Blue Ribbon Fried Chicken
+1329,1477510,test,Han Dynasty
+1330,1477954,development,Tamarind TriBeCa
+1331,1476609,development,Shake Shack
+1332,1476785,development,Blue Ribbon Sushi
+1333,1477182,development,Song Thai Restaurant & Bar
+1334,1477979,development,S'MAC
+1335,1477304,development,The Meatball Shop
+1336,1476823,development,Blue Ribbon Sushi
+1337,1478434,development,J. G. Melon
+1338,1477411,development,Hummus Place
+1339,1477720,development,Empanada Mama (closed)
+1340,1476638,development,Blue Ribbon Sushi Bar & Grill
+1341,1478411,development,RedFarm Broadway
+1342,1477166,development,RedFarm Hudson
+1343,1477338,development,Hill Country Fried Chicken
+1344,1477003,development,Bareburger
+1345,1477565,development,Blue Ribbon Fried Chicken
+1346,1477842,development,RedFarm Broadway
+1347,1478328,development,Rubirosa
+1348,1477289,test,Cafe Mogador
+1349,1478146,development,Shake Shack
+1350,1476662,development,Tamarind TriBeCa
+1351,1476991,development,The Meatball Shop
+1352,1477433,development,Dickson's Farmstand Meats
+1353,1478250,development,Blue Ribbon Sushi
+1354,1478239,development,Shake Shack
+1355,1477370,development,Sushi of Gari 46
+1356,1477580,development,Chipotle Mexican Grill $1.99 Delivery
+1357,1478091,development,Blue Ribbon Sushi Bar & Grill
+1358,1477795,development,RedFarm Broadway
+1359,1477903,development,Bareburger
+1360,1478439,test,TAO
+1361,1476731,test,TAO
+1362,1476827,development,Blue Ribbon Sushi
+1363,1476777,development,Blue Ribbon Sushi
+1364,1478027,test,Parm
+1365,1476811,test,Barbounia
+1366,1477184,development,Rubirosa
+1367,1477119,development,Shake Shack
+1368,1478021,development,Blue Ribbon Sushi Bar & Grill
+1369,1476990,development,Mission Cantina
+1370,1478329,development,Tres Carnes
+1371,1478385,development,Blue Ribbon Fried Chicken
+1372,1477300,development,The Meatball Shop
+1373,1477275,development,Sushi of Gari 46
+1374,1477994,development,Momoya
+1375,1477123,development,The Smile
+1376,1476758,development,Schnipper's Quality Kitchen
+1377,1477940,development,Joe's Shanghai _Àü£¾÷´
+1378,1477089,development,RedFarm Broadway
+1379,1476587,test,TAO
+1380,1478015,development,Nobu Next Door
+1381,1478023,development,Nobu Next Door
+1382,1476766,development,Shake Shack
+1383,1477347,development,Shake Shack
+1384,1478339,development,Vanessa's Dumpling House
+1385,1477647,development,Yama Japanese Restaurant
+1386,1477478,test,Parm
+1387,1477180,development,Chipotle Mexican Grill $1.99 Delivery
+1388,1478110,development,Shake Shack
+1389,1476632,development,Westville Hudson
+1390,1478352,development,Otto Enoteca Pizzeria
+1391,1477079,development,Jack's Wife Freda
+1392,1477384,development,Shake Shack
+1393,1477262,development,Blue Ribbon Fried Chicken
+1394,1476602,development,RedFarm Hudson
+1395,1477741,development,The Meatball Shop
+1396,1478370,development,Grand Sichuan International
+1397,1477232,development,Nobu Next Door
+1398,1477444,development,Shake Shack
+1399,1478346,development,Shake Shack
+1400,1477539,development,Tres Carnes
+1401,1477172,development,Bareburger
+1402,1477418,development,Vanessa's Dumplings
+1403,1476937,development,Shake Shack
+1404,1477962,test,Big Daddy's
+1405,1477630,development,Shake Shack
+1406,1477497,development,Sarabeth's Restaurant
+1407,1477930,test,Han Dynasty
+1408,1476778,development,Sushi of Gari Tribeca
+1409,1477155,development,J. G. Melon
+1410,1478139,development,Shake Shack
+1411,1477317,test,Parm
+1412,1476694,test,Cafe Mogador
+1413,1476987,development,RedFarm Hudson
+1414,1476942,development,Shake Shack
+1415,1477344,development,Jack's Wife Freda
+1416,1477813,development,Byblos Restaurant
+1417,1477417,development,Pinto Nouveau Thai Bistro
+1418,1476671,test,Cafe Habana
+1419,1477805,development,RedFarm Broadway
+1420,1477305,development,The Meatball Shop
+1421,1477223,development,J. G. Melon
+1422,1478394,development,Blue Ribbon Sushi
+1423,1477963,development,Blue Ribbon Fried Chicken
+1424,1477861,development,Shake Shack
+1425,1477201,test,TAO
+1426,1478253,test,Parm
+1427,1476607,development,Sushi of Gari 46
+1428,1477540,development,Blue Ribbon Sushi
+1429,1478117,development,Bareburger
+1430,1477515,development,Sushi of Gari 46
+1431,1477329,development,RedFarm Broadway
+1432,1477218,development,Shake Shack
+1433,1476633,development,Shake Shack
+1434,1476776,development,Le Grainne Cafe
+1435,1477447,test,Han Dynasty
+1436,1477878,development,Westville Hudson
+1437,1478122,test,Cafe Habana
+1438,1476601,development,Vanessa's Dumplings
+1439,1478206,development,Osteria Morini
+1440,1478326,development,Il Bambino
+1441,1477691,test,Parm
+1442,1477845,development,Blue Ribbon Sushi
+1443,1478300,development,The Meatball Shop
+1444,1478147,development,Five Guys Burgers and Fries
+1445,1476719,test,Parm
+1446,1476765,development,Sushi of Gari Tribeca
+1447,1476985,development,The Meatball Shop
+1448,1478317,development,Shake Shack
+1449,1477461,development,Kori Restaurant and Bar
+1450,1477028,development,RedFarm Broadway
+1451,1477672,development,J. G. Melon
+1452,1478307,development,Sarabeth's Restaurant
+1453,1477971,development,DespaÌ±a
+1454,1477225,development,Sushi of Gari 46
+1455,1477146,development,Yama Japanese Restaurant
+1456,1477460,development,The Meatball Shop
+1457,1477848,development,12 Chairs
+1458,1478138,development,Rubirosa
+1459,1476918,development,Blue Ribbon Sushi
+1460,1477935,development,Lamarca Pasta
+1461,1477549,development,L'Express
+1462,1476932,development,Mission Cantina
+1463,1477574,development,RedFarm Broadway
+1464,1477596,development,Chipotle Mexican Grill $1.99 Delivery
+1465,1477258,development,Blue Ribbon Sushi Izakaya
+1466,1477849,development,P.J. Clarke's
+1467,1477328,test,Parm
+1468,1478022,development,Empanada Mama (closed)
+1469,1477284,test,Parm
+1470,1477717,development,Sushi of Gari 46
+1471,1476926,development,Cho Dang Gol
+1472,1477331,development,El Parador Cafe
+1473,1478284,development,Blue Ribbon Fried Chicken
+1474,1477245,test,TAO
+1475,1477006,test,Cafe Mogador
+1476,1477008,test,Blue Ribbon Brooklyn
+1477,1477341,development,RedFarm Broadway
+1478,1477967,development,Empanada Mama (closed)
+1479,1477208,development,Bareburger
+1480,1478050,development,Nobu Next Door
+1481,1476699,development,The Meatball Shop
+1482,1477451,development,Rubirosa
+1483,1477179,development,L'Express
+1484,1477313,test,Parm
+1485,1477074,development,Rubirosa
+1486,1478051,development,Sushi of Gari 46
+1487,1477071,development,Nobu Next Door
+1488,1478368,development,Burger Joint
+1489,1476859,development,Sarabeth's Restaurant
+1490,1478393,development,Tamarind TriBeCa
+1491,1477345,development,The Meatball Shop
+1492,1476707,development,Shake Shack
+1493,1477064,development,The Meatball Shop
+1494,1477543,development,Sushi of Gari 46
+1495,1476680,development,Blue Ribbon Sushi Izakaya
+1496,1476816,development,Olea
+1497,1477589,test,Boqueria
+1498,1477899,test,Parm
+1499,1478043,development,The Meatball Shop
+1500,1476665,development,Shake Shack
+1501,1477298,development,The Meatball Shop
+1502,1476793,development,Rubirosa
+1503,1477396,test,Boqueria
+1504,1477477,development,The Meatball Shop
+1505,1476963,development,Blue Ribbon Fried Chicken
+1506,1477733,development,Lucky Strike
+1507,1477627,development,RedFarm Hudson
+1508,1477718,development,Blue Ribbon Sushi
+1509,1477167,test,Han Dynasty
+1510,1477766,development,Blue Ribbon Sushi
+1511,1477386,development,The Meatball Shop
+1512,1478176,development,Rubirosa
+1513,1476818,test,Boqueria
+1514,1477435,development,Hatsuhana
+1515,1478086,development,Shake Shack
+1516,1477465,development,Carmine's
+1517,1477412,development,Paul & Jimmy's
+1518,1476550,development,The Loop
+1519,1477361,development,Shake Shack
+1520,1477131,development,The Smile
+1521,1477745,test,TAO
+1522,1477683,development,RedFarm Hudson
+1523,1476592,development,The Smile
+1524,1477687,development,Jack's Wife Freda
+1525,1476857,development,Blue Ribbon Fried Chicken
+1526,1478325,development,Shake Shack
+1527,1477744,development,Pinto Nouveau Thai Bistro
+1528,1478025,test,Pylos
+1529,1478171,development,The Meatball Shop
+1530,1477268,test,TAO
+1531,1476780,development,Vezzo Thin Crust Pizza
+1532,1476594,test,TAO
+1533,1477830,development,Tamarind TriBeCa
+1534,1477725,development,Momoya
+1535,1476922,development,Balthazar Boulangerie
+1536,1478266,development,The Meatball Shop
+1537,1478377,development,The Meatball Shop
+1538,1476880,development,Momoya
+1539,1476721,development,The Meatball Shop
+1540,1477793,development,Blue Ribbon Sushi
+1541,1478322,development,RedFarm Broadway
+1542,1477065,development,The Meatball Shop
+1543,1477670,development,Shake Shack
+1544,1476674,development,Olive Garden
+1545,1478212,development,Dos Caminos
+1546,1477632,development,Sarabeth's Restaurant
+1547,1478083,development,Lucky's Famous Burgers
+1548,1477484,development,Blue Ribbon Fried Chicken
+1549,1477710,development,Shake Shack
+1550,1477307,development,Cho Dang Gol
+1551,1478062,development,Burger Joint
+1552,1476865,development,Empanada Mama (closed)
+1553,1476621,development,RedFarm Hudson
+1554,1476957,development,V-Nam Cafe
+1555,1477611,development,Nobu Next Door
+1556,1477775,development,Shake Shack
+1557,1478007,test,Boqueria
+1558,1477629,development,Five Leaves
+1559,1476737,development,Nobu Next Door
+1560,1477868,development,Blue Ribbon Sushi Bar & Grill
+1561,1478185,development,Benihana
+1562,1477567,development,The Meatball Shop
+1563,1478251,development,Jack's Wife Freda
+1564,1478079,development,Tamarind TriBeCa
+1565,1478144,development,The Meatball Shop
+1566,1476615,development,RedFarm Hudson
+1567,1478419,development,Blue Ribbon Sushi Bar & Grill
+1568,1476920,development,RedFarm Broadway
+1569,1477786,development,RedFarm Hudson
+1570,1476924,development,Shake Shack
+1571,1476547,development,Bareburger
+1572,1477561,development,The Meatball Shop
+1573,1477422,development,The Meatball Shop
+1574,1477436,development,RedFarm Hudson
+1575,1478353,development,Momoya
+1576,1477086,development,Blue Ribbon Sushi
+1577,1477688,development,Blue Ribbon Sushi
+1578,1477011,development,S'MAC
+1579,1477695,development,Rubirosa
+1580,1476608,development,Burger Joint
+1581,1478375,test,Boqueria
+1582,1476965,test,Delicatessen
+1583,1476757,development,12 Chairs
+1584,1476611,development,Grand Sichuan International
+1585,1477055,development,Bareburger
+1586,1477949,development,Rubirosa
+1587,1477406,development,Blue Ribbon Sushi Bar & Grill
+1588,1478118,development,Blue Ribbon Sushi
+1589,1477352,development,Sushi of Gari
+1590,1478276,development,Shake Shack
+1591,1477837,development,Nobu Next Door
+1592,1476781,development,Shake Shack
+1593,1476879,development,Blue Ribbon Fried Chicken
+1594,1477383,development,Xi'an Famous Foods
+1595,1477534,development,The Meatball Shop
+1596,1477111,development,P.J. Clarke's
+1597,1477818,development,Shake Shack
+1598,1477249,test,The Kati Roll Company
+1599,1477095,development,Shake Shack
+1600,1477379,development,Joe's Shanghai _Àü£¾÷´
+1601,1477128,development,Waverly Diner
+1602,1478125,development,Shake Shack
+1603,1477707,development,Blue Ribbon Fried Chicken
+1604,1478191,development,Friend of a Farmer
+1605,1476614,development,Chipotle Mexican Grill $1.99 Delivery
+1606,1477105,development,The Smile
+1607,1477124,development,Vanessa's Dumplings
+1608,1476980,development,Momoya
+1609,1477162,development,Blue Ribbon Fried Chicken
+1610,1476754,development,Balthazar Boulangerie
+1611,1477260,development,Chipotle Mexican Grill $1.99 Delivery
+1612,1478297,development,Bareburger
+1613,1476792,development,Saravanaa Bhavan
+1614,1477554,development,Shake Shack
+1615,1477820,development,Schnipper's Quality Kitchen
+1616,1478291,development,RedFarm Broadway
+1617,1477628,development,Blue Ribbon Sushi Izakaya
+1618,1478038,development,Shake Shack
+1619,1478356,development,Blue Ribbon Sushi
+1620,1477952,development,Shake Shack
+1621,1476992,development,Vezzo Thin Crust Pizza
+1622,1478040,development,Sushi of Gari Tribeca
+1623,1477905,development,The Meatball Shop
+1624,1477658,development,Tamarind TriBeCa
+1625,1477918,development,Yama Japanese Restaurant
+1626,1477562,development,The Odeon
+1627,1476847,development,The Meatball Shop
+1628,1477081,development,Shake Shack
+1629,1476604,test,Cafe Mogador
+1630,1478016,development,Yama Japanese Restaurant
+1631,1477087,development,Shake Shack
+1632,1476706,development,Hunan Manor
+1633,1477906,development,Sushi of Gari Tribeca
+1634,1478381,development,Ravagh Persian Grill
+1635,1478142,development,Hatsuhana
+1636,1477654,development,Blue Ribbon Fried Chicken
+1637,1477965,development,Shake Shack
+1638,1476960,test,Parm
+1639,1478134,development,Sushi of Gari Tribeca
+1640,1477588,development,5 Napkin Burger
+1641,1477897,development,The Meatball Shop
+1642,1477217,development,Sushi of Gari 46
+1643,1476772,development,Sushi of Gari
+1644,1478167,development,RedFarm Hudson
+1645,1477101,development,The Meatball Shop
+1646,1477665,test,Han Dynasty
+1647,1477103,development,Five Guys Burgers and Fries
+1648,1477880,development,The Meatball Shop
+1649,1477346,development,Shake Shack
+1650,1477157,development,Blue Ribbon Sushi Bar & Grill
+1651,1477886,development,Blue Ribbon Sushi
+1652,1477442,development,Asuka Sushi
+1653,1477434,development,Shake Shack
+1654,1477303,development,Sushi of Gari 46
+1655,1477423,development,J. G. Melon
+1656,1478424,test,Parm
+1657,1476571,development,Melt Shop
+1658,1477034,development,J. G. Melon
+1659,1477673,development,Sushi of Gari 46
+1660,1478061,development,Jack's Wife Freda
+1661,1476901,development,Lucky's Famous Burgers
+1662,1478113,development,ilili Restaurant
+1663,1477986,test,Junoon
+1664,1477770,development,J. G. Melon
+1665,1478420,development,Momoya
+1666,1477252,test,Cafe Habana
+1667,1476883,development,Westville Hudson
+1668,1478442,development,Five Guys Burgers and Fries
+1669,1477898,development,J. G. Melon
+1670,1477476,test,Delicatessen
+1671,1477520,development,Chipotle Mexican Grill $1.99 Delivery
+1672,1477652,test,Parm
+1673,1478205,development,Coppola's East
+1674,1477751,development,RedFarm Broadway
+1675,1477021,development,Mamoun's Falafel
+1676,1476959,development,Serafina Fabulous Pizza
+1677,1476687,development,Blue Ribbon Sushi
+1678,1477798,development,Five Guys Burgers and Fries
+1679,1476938,test,TAO
+1680,1477022,development,Blue Ribbon Sushi
+1681,1477077,development,Shake Shack
+1682,1478361,development,Shake Shack
+1683,1477407,development,RedFarm Hudson
+1684,1477207,development,Sushi of Gari 46
+1685,1477122,development,Shake Shack
+1686,1477199,development,Yama Japanese Restaurant
+1687,1478060,development,Osteria Morini
+1688,1478074,development,Blue Ribbon Fried Chicken
+1689,1477614,test,Sushi Samba
+1690,1477181,development,Carmine's
+1691,1477454,development,DespaÌ±a
+1692,1476870,development,The Meatball Shop
+1693,1477759,development,Blue Ribbon Sushi Bar & Grill
+1694,1477606,development,RedFarm Broadway
+1695,1478302,development,Blue Ribbon Sushi Bar & Grill
+1696,1476574,test,Emporio
+1697,1478306,test,Parm
+1698,1476565,development,Blue Ribbon Sushi Bar & Grill
+1699,1478200,development,Blue Ribbon Fried Chicken
+1700,1478264,development,Jack's Wife Freda
+1701,1477228,development,Jack's Wife Freda
+1702,1478057,test,Parm
+1703,1478256,development,Tamarind TriBeCa
+1704,1478259,development,Hill Country Fried Chicken
+1705,1477483,development,Osteria Morini
+1706,1477257,development,Sushi of Gari 46
+1707,1477056,development,Shake Shack
+1708,1477402,development,Otto Enoteca Pizzeria
+1709,1476760,development,Empanada Mama (closed)
+1710,1477030,development,Rubirosa
+1711,1476850,development,The Meatball Shop
+1712,1477356,development,CafÌ© China
+1713,1477990,development,Rubirosa
+1714,1477448,development,Sushi of Gari
+1715,1477784,development,Momoya
+1716,1478425,test,Parm
+1717,1477031,development,Friend of a Farmer
+1718,1477969,test,Wa Jeal
+1719,1476595,development,Blue Ribbon Sushi
+1720,1478070,development,RedFarm Broadway
+1721,1477501,development,RedFarm Hudson
+1722,1476727,development,Jack's Wife Freda
+1723,1477016,test,Parm
+1724,1477511,development,RedFarm Broadway
+1725,1477067,development,Vanessa's Dumplings
+1726,1477068,development,Rubirosa
+1727,1477551,development,Blue Ribbon Fried Chicken
+1728,1478415,development,Blue Ribbon Sushi Bar & Grill
+1729,1478129,test,Han Dynasty
+1730,1477096,development,Xi'an Famous Foods
+1731,1477891,development,Shake Shack
+1732,1477881,development,Cafeteria
+1733,1478197,development,Shake Shack
+1734,1477082,development,ilili Restaurant
+1735,1477781,development,Tamarind TriBeCa
+1736,1476570,test,The Kati Roll Company
+1737,1476677,development,Le Zie 2000 Trattoria
+1738,1478397,development,Blue Ribbon Fried Chicken
+1739,1477608,development,Le Grainne Cafe
+1740,1478241,development,RedFarm Broadway
+1741,1477216,development,Momoya
+1742,1478379,development,Shake Shack
+1743,1478237,test,Han Dynasty
+1744,1477732,development,Shake Shack
+1745,1476842,development,RedFarm Broadway
+1746,1476984,development,5 Napkin Burger
+1747,1476783,test,Han Dynasty
+1748,1476989,development,The Meatball Shop
+1749,1477213,development,The Meatball Shop
+1750,1477607,test,Han Dynasty
+1751,1477863,development,Shake Shack
+1752,1478360,development,Tamarind TriBeCa
+1753,1477134,development,The Meatball Shop
+1754,1478390,development,Vanessa's Dumplings
+1755,1476794,development,S'MAC
+1756,1478116,development,Five Guys Burgers and Fries
+1757,1478344,development,Sushi of Gari Tribeca
+1758,1477796,test,Parm
+1759,1478243,development,Blue Ribbon Sushi
+1760,1477069,development,Blue Ribbon Fried Chicken
+1761,1476953,development,Westville Hudson
+1762,1477700,development,Blue Ribbon Sushi
+1763,1478106,development,Shake Shack
+1764,1477625,development,Sushi of Gari Tribeca
+1765,1478213,test,Han Dynasty
+1766,1476779,test,Sushi Samba
+1767,1478207,development,Tamarind TriBeCa
+1768,1477075,development,ilili Restaurant
+1769,1477145,development,Shake Shack
+1770,1478153,development,Xi'an Famous Foods
+1771,1477689,development,Terakawa Ramen
+1772,1477742,development,Blue Ribbon Fried Chicken
+1773,1477391,development,RedFarm Hudson
+1774,1476993,development,RedFarm Broadway
+1775,1476705,test,Cafe Mogador
+1776,1477694,development,Shake Shack
+1777,1477933,development,Empanada Mama (closed)
+1778,1477062,development,Blue Ribbon Sushi
+1779,1477771,development,ilili Restaurant
+1780,1477144,development,Balthazar Boulangerie
+1781,1477149,development,Rye House
+1782,1478182,development,Momoya
+1783,1478405,development,Shake Shack
+1784,1478094,test,TAO
+1785,1477857,development,S'MAC
+1786,1476840,development,Jack's Wife Freda
+1787,1477641,development,Blue Ribbon Sushi
+1788,1476690,development,Vanessa's Dumplings
+1789,1476593,development,The Meatball Shop
+1790,1477343,development,Hiroko's Place
+1791,1476881,development,Nobu Next Door
+1792,1476913,development,Grand Sichuan International
+1793,1478119,development,Sushi of Gari Tribeca
+1794,1476976,development,Shake Shack
+1795,1476575,development,P.J. Clarke's
+1796,1478105,development,Hummus Place
+1797,1476945,development,The Smile
+1798,1476853,development,L'Express
+1799,1477259,development,Blue Ribbon Sushi
+1800,1477141,development,Shake Shack
+1801,1477556,test,Blue Ribbon Brooklyn
+1802,1478254,development,5 Napkin Burger
+1803,1478365,development,ilili Restaurant
+1804,1477380,development,Rubirosa
+1805,1477548,development,The Meatball Shop
+1806,1478444,development,Shake Shack
+1807,1477716,test,Cafe Habana
+1808,1476668,development,Zero Otto Nove
+1809,1477106,development,J. G. Melon
+1810,1477526,development,Olea
+1811,1477664,development,Blue Ribbon Fried Chicken
+1812,1477917,development,Momoya
+1813,1477381,development,The Smile
+1814,1476745,development,Blue Ribbon Fried Chicken
+1815,1477885,development,Chipotle Mexican Grill $1.99 Delivery
+1816,1476724,development,Blue Ribbon Sushi
+1817,1477387,development,Blue Ribbon Fried Chicken
+1818,1476750,development,Empanada Mama (closed)
+1819,1478285,development,Blue Ribbon Fried Chicken
+1820,1477910,development,Frank Restaurant
+1821,1478364,development,Grand Sichuan International
+1822,1477480,test,Yama 49
+1823,1477050,development,Shake Shack
+1824,1478090,development,Blue Ribbon Sushi Izakaya
+1825,1477633,development,Shake Shack
+1826,1478095,development,Blue Ribbon Sushi
+1827,1478096,development,Yama Japanese Restaurant
+1828,1478166,development,RedFarm Hudson
+1829,1478013,development,Westville Hudson
+1830,1478369,test,Sushi Samba
+1831,1476970,development,Nobu Next Door
+1832,1476612,test,Delicatessen
+1833,1478234,development,Balthazar Boulangerie
+1834,1477114,development,Dos Caminos
+1835,1477644,development,Osteria Morini
+1836,1476634,development,Sushi of Gari 46
+1837,1477186,test,The Kati Roll Company
+1838,1477939,development,The Meatball Shop
+1839,1477610,development,Vanessa's Dumpling House
+1840,1476843,development,Sarabeth's West
+1841,1476983,development,Rubirosa
+1842,1478418,development,Nobu Next Door
+1843,1477941,development,Cafeteria
+1844,1478123,test,Han Dynasty
+1845,1477966,development,Blue Ribbon Sushi
+1846,1478154,development,CafÌ© China
+1847,1477855,development,Sushi of Gari 46
+1848,1478261,test,Parm
+1849,1477121,development,Nobu Next Door
+1850,1477927,test,Parm
+1851,1477871,development,Shake Shack
+1852,1476644,development,Shake Shack
+1853,1477415,development,Mamoun's Falafel
+1854,1477397,development,Momoya
+1855,1476723,development,RedFarm Hudson
+1856,1478258,development,Shake Shack
+1857,1477222,development,The Meatball Shop
+1858,1477335,development,Nobu Next Door
+1859,1476790,development,Cho Dang Gol
+1860,1477330,development,DuMont Burger
+1861,1477639,development,Blue Ribbon Sushi
+1862,1478124,development,S'MAC
+1863,1477076,development,Sushi of Gari 46
+1864,1476939,development,The Meatball Shop
+1865,1476661,development,Blue Ribbon Sushi
+1866,1478268,development,Xi'an Famous Foods
+1867,1477253,development,Blue Ribbon Sushi
+1868,1477778,development,RedFarm Broadway
+1869,1476923,development,J. G. Melon
+1870,1477362,development,Shake Shack
+1871,1477404,development,Yama Japanese Restaurant
+1872,1477000,development,Blue Ribbon Fried Chicken
+1873,1478148,development,Shake Shack
+1874,1477377,development,DuMont Burger
+1875,1478039,development,Amy Ruth's
+1876,1478320,development,The Meatball Shop
+1877,1478304,development,'wichcraft
+1878,1477194,development,Blue Ribbon Sushi
+1879,1477132,development,Blue Ribbon Sushi
+1880,1477466,development,Shake Shack
+1881,1476700,development,Shake Shack
+1882,1478011,development,Melt Shop
+1883,1476748,development,The Meatball Shop
+1884,1477437,development,Shake Shack
+1885,1477550,development,Shake Shack
+1886,1478277,development,The Meatball Shop
+1887,1476873,development,Shake Shack
+1888,1477353,development,The Meatball Shop
+1889,1478190,development,RedFarm Broadway
+1890,1477316,test,TAO
+1891,1476981,development,Shake Shack
+1892,1477473,test,Han Dynasty
+1893,1476701,development,Chipotle Mexican Grill $1.99 Delivery
+1894,1477421,development,The Smile
+1895,1477819,development,Blue Ribbon Sushi
+1896,1477513,development,Jack's Wife Freda
+1897,1478056,development,Blue Ribbon Sushi

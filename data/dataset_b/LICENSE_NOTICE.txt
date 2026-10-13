@@ -1,0 +1,7 @@
+Food Delivery Time by Rajat Kumar
+https://www.kaggle.com/datasets/rajatkumar30/food-delivery-time
+Database: Open Database License (ODbL) 1.0
+https://opendatacommons.org/licenses/odbl/1-0/
+Contents: Database Contents License (DbCL) 1.0
+https://opendatacommons.org/licenses/dbcl/1-0/
+Raw CSV retained unchanged. See ../DATA_SOURCES.md for provenance and derived data notices.

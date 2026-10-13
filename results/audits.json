@@ -1,0 +1,65 @@
+{
+  "A": {
+    "raw_rows": 1000,
+    "raw_columns": 9,
+    "raw_missing_cells": 120,
+    "repeated_id_rows_excluded": 0,
+    "invalid_targets": 0,
+    "used_rows": 1000,
+    "feature_missing": {
+      "Distance_km": 0,
+      "Courier_Experience_yrs": 30,
+      "Weather": 30,
+      "Traffic_Level": 30,
+      "Time_of_Day": 30,
+      "Vehicle_Type": 0
+    },
+    "sha256": "9fc2f147a79ee7edec9cc19e70c35d460df713f942b4f1ea9197ba7c2ad6a543",
+    "development_rows": 800,
+    "test_rows": 200,
+    "split": "Random orders"
+  },
+  "B": {
+    "raw_rows": 45593,
+    "raw_columns": 11,
+    "raw_missing_cells": 0,
+    "repeated_id_rows_excluded": 259,
+    "invalid_targets": 0,
+    "used_rows": 45334,
+    "feature_missing": {
+      "Straight_line_km": 4043,
+      "Delivery_person_Age": 37,
+      "Type_of_order": 0,
+      "Type_of_vehicle": 0
+    },
+    "sha256": "a30359cd749f199eeb7bf1b915ff5d00b040d684ff52b68e7a8a60a646f8d885",
+    "group_type": "courier",
+    "development_groups": 1056,
+    "test_groups": 264,
+    "group_overlap": 0,
+    "development_rows": 36397,
+    "test_rows": 8937,
+    "split": "Unseen couriers"
+  },
+  "C": {
+    "raw_rows": 1898,
+    "raw_columns": 9,
+    "raw_missing_cells": 0,
+    "repeated_id_rows_excluded": 0,
+    "invalid_targets": 0,
+    "used_rows": 1898,
+    "feature_missing": {
+      "cost_of_the_order": 0,
+      "cuisine_type": 0,
+      "day_of_the_week": 0
+    },
+    "sha256": "6cf8177f2e600dd642b1122d148cf2edfade950842b2a900e67d2257c7ac7d05",
+    "group_type": "restaurant",
+    "development_groups": 142,
+    "test_groups": 36,
+    "group_overlap": 0,
+    "development_rows": 1600,
+    "test_rows": 298,
+    "split": "Unseen restaurants"
+  }
+}

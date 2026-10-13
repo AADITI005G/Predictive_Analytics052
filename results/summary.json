@@ -1,0 +1,155 @@
+{
+  "datasets": {
+    "A": {
+      "audit": {
+        "raw_rows": 1000,
+        "raw_columns": 9,
+        "raw_missing_cells": 120,
+        "repeated_id_rows_excluded": 0,
+        "invalid_targets": 0,
+        "used_rows": 1000,
+        "feature_missing": {
+          "Distance_km": 0,
+          "Courier_Experience_yrs": 30,
+          "Weather": 30,
+          "Traffic_Level": 30,
+          "Time_of_Day": 30,
+          "Vehicle_Type": 0
+        },
+        "sha256": "9fc2f147a79ee7edec9cc19e70c35d460df713f942b4f1ea9197ba7c2ad6a543",
+        "development_rows": 800,
+        "test_rows": 200,
+        "split": "Random orders"
+      },
+      "selected_model": "Ridge",
+      "test": {
+        "MAE": 8.56836519403943,
+        "RMSE": 11.136125872069572,
+        "R2": 0.7233247743766933,
+        "within_10_percent": 66.5
+      },
+      "baseline": {
+        "MAE": 17.465,
+        "RMSE": 21.17864490471475,
+        "R2": -0.0006872076362649526,
+        "within_10_percent": 31.5
+      },
+      "train": {
+        "MAE": 9.202819325516058,
+        "RMSE": 12.783530230676524,
+        "R2": 0.6703430622079879,
+        "within_10_percent": 63.0
+      },
+      "improvement_percent": 50.93979276244242,
+      "example_predicted": 37.624716904834514,
+      "example_actual": 32.0,
+      "top_feature": "Distance_km"
+    },
+    "B": {
+      "audit": {
+        "raw_rows": 45593,
+        "raw_columns": 11,
+        "raw_missing_cells": 0,
+        "repeated_id_rows_excluded": 259,
+        "invalid_targets": 0,
+        "used_rows": 45334,
+        "feature_missing": {
+          "Straight_line_km": 4043,
+          "Delivery_person_Age": 37,
+          "Type_of_order": 0,
+          "Type_of_vehicle": 0
+        },
+        "sha256": "a30359cd749f199eeb7bf1b915ff5d00b040d684ff52b68e7a8a60a646f8d885",
+        "group_type": "courier",
+        "development_groups": 1056,
+        "test_groups": 264,
+        "group_overlap": 0,
+        "development_rows": 36397,
+        "test_rows": 8937,
+        "split": "Unseen couriers"
+      },
+      "selected_model": "Gradient boosting",
+      "test": {
+        "MAE": 6.477185668464305,
+        "RMSE": 8.0441564431837,
+        "R2": 0.27058013760129085,
+        "within_10_percent": 78.61698556562605
+      },
+      "baseline": {
+        "MAE": 7.612733579500951,
+        "RMSE": 9.521886944484876,
+        "R2": -0.022027567099993206,
+        "within_10_percent": 74.27548394315767
+      },
+      "train": {
+        "MAE": 6.427340171132032,
+        "RMSE": 7.974798251135241,
+        "R2": 0.27590464323683395,
+        "within_10_percent": 79.39115861197351
+      },
+      "improvement_percent": 14.916427839986046,
+      "example_predicted": 27.084135397180212,
+      "example_actual": 36.0,
+      "top_feature": "Straight_line_km"
+    },
+    "C": {
+      "audit": {
+        "raw_rows": 1898,
+        "raw_columns": 9,
+        "raw_missing_cells": 0,
+        "repeated_id_rows_excluded": 0,
+        "invalid_targets": 0,
+        "used_rows": 1898,
+        "feature_missing": {
+          "cost_of_the_order": 0,
+          "cuisine_type": 0,
+          "day_of_the_week": 0
+        },
+        "sha256": "6cf8177f2e600dd642b1122d148cf2edfade950842b2a900e67d2257c7ac7d05",
+        "group_type": "restaurant",
+        "development_groups": 142,
+        "test_groups": 36,
+        "group_overlap": 0,
+        "development_rows": 1600,
+        "test_rows": 298,
+        "split": "Unseen restaurants"
+      },
+      "selected_model": "Gradient boosting",
+      "test": {
+        "MAE": 3.6404650149685063,
+        "RMSE": 4.3576952095370745,
+        "R2": 0.24165349311731765,
+        "within_10_percent": 100.0
+      },
+      "baseline": {
+        "MAE": 4.275167785234899,
+        "RMSE": 5.081879903707357,
+        "R2": -0.031342188197032606,
+        "within_10_percent": 100.0
+      },
+      "train": {
+        "MAE": 3.2476342702229624,
+        "RMSE": 3.8686612789702126,
+        "R2": 0.3929061569246258,
+        "within_10_percent": 100.0
+      },
+      "improvement_percent": 14.846265740925043,
+      "example_predicted": 22.251335438453545,
+      "example_actual": 20.0,
+      "top_feature": "day_of_the_week"
+    }
+  },
+  "versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "joblib": "1.6.0",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0",
+    "ipykernel": "7.4.0",
+    "threadpoolctl": "3.7.0"
+  },
+  "seed": 42
+}

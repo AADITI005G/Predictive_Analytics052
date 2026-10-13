@@ -1,0 +1,6 @@
+NYC Restaurants Data - Food Ordering and Delivery
+Ahsan Raza (ahsan81)
+https://www.kaggle.com/datasets/ahsan81/food-ordering-and-delivery-app-dataset
+Kaggle metadata lists CC0: Public Domain
+https://creativecommons.org/publicdomain/zero/1.0/
+Raw CSV retained unchanged. See ../DATA_SOURCES.md.
